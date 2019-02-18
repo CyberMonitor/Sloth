@@ -18,7 +18,10 @@ Sloth is free, open source software and has been maintained for a very long time
 
 ## Download
 
-*  **[⇩ Download Sloth 2.7](https://sveinbjorn.org/files/software/sloth.zip)** (~0.6 MB, Intel 64-bit, 10.8 or later)
+*  **[⇩ Download Sloth 2.7](https://sveinbjorn.org/files/software/sloth.zip)** (~0.6 MB, Intel 64-bit, macOS 10.8 or later)
+
+If you are running an older version of macOS (10.7 or earlier), you might have better luck trying   
+<a href="https://sveinbjorn.org/files/software/sloth">older releases</a>.
 
 ## Screenshots
 
